@@ -11,7 +11,9 @@ public class Main {
     Scanner sc = new Scanner(System.in);
     
     //Question B
+    System.out.print("Input 1st integer:");
     int x = sc.nextInt();
+    System.out.print("Input 2nd integer:");
     int y = sc.nextInt();
     
     //Question C
