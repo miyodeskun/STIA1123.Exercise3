@@ -3,7 +3,7 @@ package exercise3;
 import java.util.Scanner;
 /**
  *
- * @author User
+ * @author Amirul Luqman
  */
 public class Main {
     public static void main(String[]args){
