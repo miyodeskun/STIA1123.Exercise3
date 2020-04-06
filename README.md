@@ -21,3 +21,7 @@ Output: ,blu
     Give your description on the output that will be produced by the execution of the following statements.
     Random rd = new Random();
     System.out.println(rd.nextInt(41) + 10);
+The output will be the sum of random number from a range of 0-40 and 10.
+
+# Question 4
+    Write Java code segment that use class Random to generate two random numbers that is greater than or  equal to 0, and less than 100 and store the values into local variable num1 and num2. Then use class Math to determine and display the largest between both values.
